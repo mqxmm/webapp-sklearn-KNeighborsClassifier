@@ -9,6 +9,10 @@ A simple script that predicts the workout format by level and complexity from EX
 
 <br>
 
+# data for learning
+![image](https://user-images.githubusercontent.com/79595418/219884895-4d3842e2-f188-4e2a-af87-770343b370d3.png)
+
+<br><br>
 
 <ins>stack:</ins><br>
 sklearn<br>
